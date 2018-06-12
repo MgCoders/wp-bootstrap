@@ -1,0 +1,7 @@
+<project>
+    <artifactId>chromium</artifactId>
+    <version>0.1</version>
+    <urlTest>wp-bootstrap.magnesium.coop</urlTest>
+    <urlProd>wp-bootstrap.magnesium.link</urlProd>
+</project>
+
